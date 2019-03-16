@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Oject_Oriented_Programming" Database="" Version="10.0.0">
+  <Project Name="declaring_class" Path="declaring_class/declaring_class.project" Active="No"/>
+  <Project Name="accessing_class_members" Path="accessing_class_members/accessing_class_members.project" Active="No"/>
+  <Project Name="class_public_private" Path="class_public_private/class_public_private.project" Active="No"/>
+  <Project Name="Accessing_methods_part_1" Path="Accessing_methods_part_1/Accessing_methods_part_1.project" Active="No"/>
+  <Project Name="Accessing_Methods_Part2" Path="Accessing_Methods_Part2/Accessing_Methods_Part2.project" Active="No"/>
+  <Project Name="Constructors_Deconstructors" Path="Constructors_Deconstructors/Constructors_Deconstructors.project" Active="No"/>
+  <Project Name="Understanding_Constructors" Path="Understanding_Constructors/Understanding_Constructors.project" Active="No"/>
+  <Project Name="overliading_constructors" Path="overliading_constructors/overliading_constructors.project" Active="No"/>
+  <Project Name="contructor_initialization" Path="contructor_initialization/contructor_initialization.project" Active="No"/>
+  <Project Name="Constructor_delegation" Path="Constructor_delegation/Constructor_delegation.project" Active="No"/>
+  <Project Name="constructor_default_values" Path="constructor_default_values/constructor_default_values.project" Active="No"/>
+  <Project Name="Constructors_copy" Path="Constructors_copy/Constructors_copy.project" Active="No"/>
+  <Project Name="TEMPLATE" Path="TEMPLATE/TEMPLATE.project" Active="No"/>
+  <Project Name="Constructors_shallow_Copy" Path="Constructors_shallow_Copy/Constructors_shallow_Copy.project" Active="No"/>
+  <Project Name="constructor_deep_copy" Path="constructor_deep_copy/constructor_deep_copy.project" Active="No"/>
+  <Project Name="move_constructors" Path="move_constructors/move_constructors.project" Active="No"/>
+  <Project Name="CONST_Qualifirers_in_Class" Path="CONST_Qualifirers_in_Class/CONST_Qualifirers_in_Class.project" Active="No"/>
+  <Project Name="Static_player_class" Path="Static_player_class/Static_player_class.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="overloading_operators" Path="overloading_operators/overloading_operators.project" Active="No"/>
+  <Project Name="custom_class_operator" Path="custom_class_operator/custom_class_operator.project" Active="No"/>
+  <Project Name="custom_move_construction_idea" Path="custom_move_construction_idea/custom_move_construction_idea.project" Active="No"/>
+  <Project Name="custom_unary_operator_creation" Path="custom_unary_operator_creation/custom_unary_operator_creation.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="declaring_class" ConfigName="Debug"/>
+      <Project Name="accessing_class_members" ConfigName="Debug"/>
+      <Project Name="class_public_private" ConfigName="Debug"/>
+      <Project Name="Accessing_methods_part_1" ConfigName="Debug"/>
+      <Project Name="Accessing_Methods_Part2" ConfigName="Debug"/>
+      <Project Name="Constructors_Deconstructors" ConfigName="Debug"/>
+      <Project Name="Understanding_Constructors" ConfigName="Debug"/>
+      <Project Name="overliading_constructors" ConfigName="Debug"/>
+      <Project Name="contructor_initialization" ConfigName="Debug"/>
+      <Project Name="Constructor_delegation" ConfigName="Debug"/>
+      <Project Name="constructor_default_values" ConfigName="Debug"/>
+      <Project Name="Constructors_copy" ConfigName="Debug"/>
+      <Project Name="TEMPLATE" ConfigName="Debug"/>
+      <Project Name="Constructors_shallow_Copy" ConfigName="Debug"/>
+      <Project Name="constructor_deep_copy" ConfigName="Debug"/>
+      <Project Name="move_constructors" ConfigName="Debug"/>
+      <Project Name="CONST_Qualifirers_in_Class" ConfigName="Debug"/>
+      <Project Name="Static_player_class" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="overloading_operators" ConfigName="Debug"/>
+      <Project Name="custom_class_operator" ConfigName="Debug"/>
+      <Project Name="custom_move_construction_idea" ConfigName="Debug"/>
+      <Project Name="custom_unary_operator_creation" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="declaring_class" ConfigName="Release"/>
+      <Project Name="accessing_class_members" ConfigName="Release"/>
+      <Project Name="class_public_private" ConfigName="Release"/>
+      <Project Name="Accessing_methods_part_1" ConfigName="Release"/>
+      <Project Name="Accessing_Methods_Part2" ConfigName="Release"/>
+      <Project Name="Constructors_Deconstructors" ConfigName="Release"/>
+      <Project Name="Understanding_Constructors" ConfigName="Release"/>
+      <Project Name="overliading_constructors" ConfigName="Release"/>
+      <Project Name="contructor_initialization" ConfigName="Release"/>
+      <Project Name="Constructor_delegation" ConfigName="Release"/>
+      <Project Name="constructor_default_values" ConfigName="Release"/>
+      <Project Name="Constructors_copy" ConfigName="Release"/>
+      <Project Name="TEMPLATE" ConfigName="Release"/>
+      <Project Name="Constructors_shallow_Copy" ConfigName="Release"/>
+      <Project Name="constructor_deep_copy" ConfigName="Release"/>
+      <Project Name="move_constructors" ConfigName="Release"/>
+      <Project Name="CONST_Qualifirers_in_Class" ConfigName="Release"/>
+      <Project Name="Static_player_class" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="overloading_operators" ConfigName="Release"/>
+      <Project Name="custom_class_operator" ConfigName="Release"/>
+      <Project Name="custom_move_construction_idea" ConfigName="Release"/>
+      <Project Name="custom_unary_operator_creation" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
